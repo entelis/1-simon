@@ -1,0 +1,2 @@
+$('.blue').addClass('light');
+
